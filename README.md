@@ -39,4 +39,7 @@ To quickly verify if mongo is up, you can do the following:
     { "_id" : ObjectId("5fb55e274a16407e9072fab6"), "firstname" : "Santa", "lastname" : "Claus", "dob" : ISODate("1972-12-25T07:00:00Z"), "_class" : "ca.jent.bank.customer.data.Customer" }
     { "_id" : ObjectId("5fb55e274a16407e9072fab5"), "firstname" : "Tim", "lastname" : "Bazz", "dob" : ISODate("1971-12-30T07:00:00Z"), "_class" : "ca.jent.bank.customer.data.Customer" }
 
-Note that the sample data output above was created after we ran the µservice within our IntelliJ IDEA.
+Note that the sample data output above was created after we ran the µservice within our IntelliJ IDEA.  To view this code and try it out, checkout the 
+_base_code_01_ code base.
+
+    $ git checkout base_code_01
